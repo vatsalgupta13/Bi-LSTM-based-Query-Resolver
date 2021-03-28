@@ -1,3 +1,6 @@
+Pretrained pyTorch model (.pt file) can be downloaded from https://www.dropbox.com/s/n4q7yrjxbckmexy/SimilarityModel.pt?dl=0
+Due to size restrictions couldn't upload that on GitHub. Download it from dropbox and put that file in the same folder as this code.
+
 Steps to run the code:
 
 TrainingScript:
